@@ -35,6 +35,10 @@
     1. Update and Upgrade your Device to latest OTA firmware.
     2. Download the [Stock Firmware](https://c.mi.com/oc/miuidownload/detail?guide=2).
     3. Backup All your Data, which Device will be Factory Format for Unlocking Bootloader.
+    4. Turn off Find Device.
+    5. Turn off lock Screen and all password and security lock
+    6. Remove All Accounts
+    7. Sign out Mi Account.
 - To use adb with your device, you’ll need to enable developer options and USB debugging:
     1. Open Settings, and select “About”.
     2. Tap on “Build number” seven times.
