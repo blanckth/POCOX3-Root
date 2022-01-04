@@ -10,13 +10,17 @@
 ##### Download [LineAgeOS](https://download.lineageos.org/vayu)
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
 #### Special Boot Modes 
-##### *Recovery*: With the device powered off, hold **`Volume Up`** + **`Power`**. 
-##### When POCO splash appears, release ~~`Power`~~ and keep pressed **`Volume Up`** until recovery appears.
+1. **Recovery**: 
+    - With the device powered off, hold **`Volume Up`** + **`Power`**. 
+    - When POCO splash appears, release ~~`Power`~~ and keep pressed **`Volume Up`** until recovery appears.
+2. **FastBoot**:
+    - With the device powered off, hold **`Volume Down`** + **`Power`**.
+    - Keep holding both buttons until the word “FASTBOOT” appears on the screen, then release.
 ```CMD
-adb devices
-adb reboot bootloader
-fastboot flash recovery twrp.img
-fastboot reboot
+> adb devices
+> adb reboot bootloader
+> fastboot flash recovery twrp.img
+> fastboot reboot
 ```
 > ###### Be Patience...
 
