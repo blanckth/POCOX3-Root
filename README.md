@@ -56,10 +56,10 @@
         > NOTE: The app may tell you that you have to wait up to 30 days. If it does so, please wait the quoted amount of time before continuing to the next step.
     7. After device and Mi account are successfully verified, the bootloader should be unlocked.
     8. Since the device resets completely, you will need to re-enable USB debugging to continue.
-- Update And Upgrade and Get backup
-    1. Update and Upgrade your Device to latest OTA firmware.
-    2. Download the [Stock Firmware](https://c.mi.com/oc/miuidownload/detail?guide=2).
-    3. Backup All your Data, which Device will be Factory Format for Unlocking Bootloader.
+- Patching boot.img with magisk
+    1. Extract boot.img from Stock firmware and move it into device storage.
+    2. Install Magisk on Device and patch the boot.img file.
+    3. move Patched_boot.img file to computer and flash it with adb on fastboot mode or TWRP Recovery mode.
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
 ```CMD
 > adb devices
