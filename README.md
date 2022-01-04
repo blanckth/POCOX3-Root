@@ -19,6 +19,7 @@
 ##### Download [Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 ##### Download [Arrow OS](https://arrowos.net/download/vayu)
 ##### Download [LineAge OS](https://download.lineageos.org/vayu)
+##### Download [LineAge SU](https://download.lineageos.org/extras)
 ##### Download [GAPPS](https://wiki.lineageos.org/gapps)
 ##### Download [NetHunter ARM64](https://www.kali.org/get-kali/#kali-mobile)
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
