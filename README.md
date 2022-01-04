@@ -7,7 +7,7 @@
 ##### Download [MIUI FASTBOOT FLASH TOOLs and ROMs](https://c.mi.com/oc/miuidownload/detail?guide=2) 
 ##### Download [TWRP APP](https://play.google.com/store/apps/details?id=me.twrp.twrpapp)
 ##### Download [TWRP IMG](https://dl.twrp.me/vayu/)
-##### Download [MAGISK](https://github.com/topjohnwu/Magisk.git)
+##### Download [MAGISK](https://magisk.me/)
 ##### Download [Universal ADB Drivers](https://adb.clockworkmod.com/)
 ##### Download [Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 ##### Download [Arrow OS](https://arrowos.net/download/vayu)
