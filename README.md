@@ -10,8 +10,8 @@
 ##### Download [MAGISK](https://github.com/topjohnwu/Magisk.git)
 ##### Download [Universal ADB Drivers](https://adb.clockworkmod.com/)
 ##### Download [Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
-##### Download [ArrowOS](https://arrowos.net/download/vayu)
-##### Download [LineAgeOS](https://download.lineageos.org/vayu)
+##### Download [Arrow OS](https://arrowos.net/download/vayu)
+##### Download [LineAge OS](https://download.lineageos.org/vayu)
 ##### Download [NetHunter ARM64](https://www.kali.org/get-kali/#kali-mobile)
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
 #### Special Boot Modes 
