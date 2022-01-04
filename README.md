@@ -10,6 +10,11 @@
 ##### Download [MAGISK](https://magisk.me/apk/)
 > ###### Tips : You can use this file for `rooting` the device as `Magisk-v23.0.apk` or rename it and flash with custom recovery (TWRP)
 > ###### as `Magisk-v23.0.zip` for `rooting` and as `uninstall.zip` for `unroot`
+#####   MOD - Download [Greenify](https://magisk.me/greenify4magisk-module/)
+#####   MOD - Download [Xposed Framework](https://magisk.me/xposed-framework-magisk-module/)
+#####   MOD - Download [Youtube Vanced](https://magisk.me/youtube-vanced-magisk-module/)
+#####   MOD - Download [Camera2API](https://magisk.me/camera2api-enabler-magisk-module/)
+#####   MOD - Download [Viper FX](https://magisk.me/viper4android-fx-magisk-module/)
 ##### Download [Universal ADB Drivers](https://adb.clockworkmod.com/)
 ##### Download [Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 ##### Download [Arrow OS](https://arrowos.net/download/vayu)
@@ -25,6 +30,10 @@
     - Keep holding both buttons until the word “FASTBOOT” appears on the screen, then release.
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
 #### Prepration
+- Update And Upgrade and Get backup
+    1. Update and Upgrade your Device to latest OTA firmware.
+    2. Download the [Stock Firmware](https://c.mi.com/oc/miuidownload/detail?guide=2).
+    3. Backup All your Data, which Device will be Factory Format for Unlocking Bootloader.
 - To use adb with your device, you’ll need to enable developer options and USB debugging:
     1. Open Settings, and select “About”.
     2. Tap on “Build number” seven times.
@@ -47,6 +56,10 @@
         > NOTE: The app may tell you that you have to wait up to 30 days. If it does so, please wait the quoted amount of time before continuing to the next step.
     7. After device and Mi account are successfully verified, the bootloader should be unlocked.
     8. Since the device resets completely, you will need to re-enable USB debugging to continue.
+- Update And Upgrade and Get backup
+    1. Update and Upgrade your Device to latest OTA firmware.
+    2. Download the [Stock Firmware](https://c.mi.com/oc/miuidownload/detail?guide=2).
+    3. Backup All your Data, which Device will be Factory Format for Unlocking Bootloader.
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
 ```CMD
 > adb devices
