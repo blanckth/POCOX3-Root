@@ -8,6 +8,9 @@
 
 ```CMD
 adb devices
+adb reboot bootloader
+fastboot flash recovery twrp.img
+fastboot reboot
 ```
 > ###### Be Patience...
 
