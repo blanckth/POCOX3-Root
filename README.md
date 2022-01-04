@@ -7,7 +7,9 @@
 ##### Download [MIUI FASTBOOT FLASH TOOLs and ROMs](https://c.mi.com/oc/miuidownload/detail?guide=2) 
 ##### Download [TWRP APP](https://play.google.com/store/apps/details?id=me.twrp.twrpapp)
 ##### Download [TWRP IMG](https://dl.twrp.me/vayu/)
-##### Download [MAGISK](https://magisk.me/)
+##### Download [MAGISK](https://magisk.me/apk/)
+> ###### Tips : You can use this file for `rooting` the device as `Magisk-v23.0.apk` or rename it and flash with custom recovery (TWRP)
+> ###### as `Magisk-v23.0.zip` for `rooting` and as `uninstall.zip` for `unroot`
 ##### Download [Universal ADB Drivers](https://adb.clockworkmod.com/)
 ##### Download [Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 ##### Download [Arrow OS](https://arrowos.net/download/vayu)
